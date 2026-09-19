@@ -26,4 +26,4 @@ Este script automatiza la recolección periódica, procesa la información y ent
 
 ---
 ✉️ **¿Necesitás automatizar la recolección de datos o reportes de tu negocio?**  
-Contáctame por [LinkedIn](TU_LINK_DE_LINKEDIN) o por correo a tu_email@email.com
+Contáctame por [LinkedIn](https://www.linkedin.com/in/marcelocharo) o por correo a marcelogcharo@gmail.com
